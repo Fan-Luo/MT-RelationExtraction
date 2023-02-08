@@ -2,6 +2,10 @@
 
 By Fan Luo, Ajay Nagesh, Rebecca Sharp, and Mihai Surdeanu ([Clulab](http://clulab.cs.arizona.edu/))
 
+
+![Poster](https://imgur.com/a/r7m7g6o)
+
+
 ## Approach
 
 In this work, we adapt [Mean Teacher](https://arxiv.org/abs/1703.01780) (Tarvainen and Valpola, 2017), a denoising SSL framework to extract semantic relations between pairs of entities. We explore the sweet spot of amount of supervision required for good performance on this binary relation extraction task.
