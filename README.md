@@ -1,6 +1,6 @@
-# Semi-Supervised Teacher-Student Architecture for Relation Extraction
+# [Semi-Supervised Teacher-Student Architecture for Relation Extraction](https://aclanthology.org/W19-1505/)
 
-By Fan Luo, Ajay Nagesh, Rebecca Sharp, and Mihai Surdeanu ([Clulab](http://clulab.cs.arizona.edu/))
+By Fan Luo, Ajay Nagesh, Rebecca Sharp, and Mihai Surdeanu ([Clulab](https://clulab.org/))
 
  
 ![Poster](MT_Poster.png)
